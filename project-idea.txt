@@ -1,0 +1,6 @@
+Project idea - Make a smart IOT device to detect static human presence and after the detection of the static human presence keep the lights or the televison on. IF the human presence is not detected then automatically switch of the lights or televison
+Components - 24 mmWave Radar Module / MCU / Other electronic component
+Main features -
+	- Operates with a rechargeble battery
+	- USB C or Micro USB port to recharge
+	- Intruder detection mode (Use IOT to enable the modes)
