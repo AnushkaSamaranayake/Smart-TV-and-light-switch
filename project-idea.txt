@@ -4,6 +4,7 @@ Main features -
 	- Operates with a rechargeble battery
 	- USB C or Micro USB port to recharge
 	- Intruder detection mode (Use IOT to enable the modes)
+	- Occupancy detection mode
 
 Important links
 https://wiki.seeedstudio.com/Radar_MR24HPB1/
