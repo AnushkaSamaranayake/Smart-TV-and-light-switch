@@ -1,1 +1,1 @@
-# Smart-TV-and-light-switch
+# Smart multipurpose switch and occupancy detector
