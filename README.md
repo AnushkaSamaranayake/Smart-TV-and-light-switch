@@ -1,1 +1,1 @@
-# Smart multipurpose switch and occupancy detector
+# Smart Multipurpose Switch and Occupancy Detector
